@@ -99,6 +99,7 @@ footer {
     overflow: hidden;
     transform: translate3d(-50%, -50%, 0);
     background: #000;
+    cursor: pointer;
 }
 
 .card img {
