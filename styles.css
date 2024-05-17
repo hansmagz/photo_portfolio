@@ -81,7 +81,7 @@ footer {
 
 .slider {
     position: absolute;
-    top: 15vh;
+    /* top: 15vh; */
     width: 100vw;
     height: 100vh;
     overflow: hidden;
@@ -91,7 +91,7 @@ footer {
 
 .card {
     position: absolute;
-    top: 50%;
+    top: 48%;
     left: 50%;
     width: 50%;
     height: 500px;
